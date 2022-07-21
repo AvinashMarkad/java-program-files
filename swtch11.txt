@@ -1,0 +1,57 @@
+import java util,*;
+class switch11
+{
+public class static void main(string args[])
+{
+int day;
+Scanner sc=new Scanner(system.in);
+System.out.println("enter the day")
+name=sc.nextint()
+
+switch (name)
+{
+case 1;
+sysyem.out.println('sunday");
+break;
+
+case 2;
+sysyem.pout.println("monday");
+break;
+
+
+case 3;
+sysyem.pout.println("tuesday");
+break;
+
+case 4;
+sysyem.pout.println("wensday");
+break;
+
+case 5;
+sysyem.pout.println("thursday");
+break;
+
+
+case 6;
+sysyem.pout.println("friday");
+break;
+
+
+case 7;
+sysyem.pout.println("saturday");
+break;
+
+deafult;
+{
+system.out.println("enter  the correct case")
+
+
+}
+}
+}
+}
+
+
+
+
+
